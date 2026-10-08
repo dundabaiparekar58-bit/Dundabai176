@@ -1,5 +1,13 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 file add
+=======
+this is stash file
+>>>>>>> Stashed changes
+=======
+this is stash file
+>>>>>>> Stashed changes
 =======
 this is stash file
 >>>>>>> Stashed changes
